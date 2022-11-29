@@ -1,0 +1,16 @@
+/*   @charset "utf-8";
+/* CSS Document */
+
+body {background-color: greenyellow;
+	font-family: Segoe, Verdana, sans-serif;}
+header {background-color: crimson}
+
+h1{color: beige}
+nav > ul {line-height: 2em;
+list-style-type: none;
+padding-left: Spx;}
+
+section {background-color: darkgoldenrod;
+width: 75%;
+font-size: 1.2em;}
+footer {background-color: aqua;}
